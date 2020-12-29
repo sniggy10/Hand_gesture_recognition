@@ -1,6 +1,6 @@
 # Hand_gesture_recognition
 
-Final Year Project created to classify hand gestures using CNN and predict real-time results with OpenCv
+Project to classify hand gestures using CNN and predict real-time results with OpenCv
 
 ### Objective
 The aim is to build a hand gesture recognition model with deep learning. This model will classify images of different hand gestures, such as a fist, palm, thumb, and others. 
